@@ -1,5 +1,3 @@
-import pytest
-
 from src.day2 import day_two
 
 
